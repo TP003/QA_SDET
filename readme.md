@@ -1,5 +1,5 @@
 QA_SDET
-Developed by : Tejas Patel/ 01.11.2018
+Developed by : TP/ 01.11.2018
 ===========================================
 QA_SDET solution includes following projects
 1) ConsoleApp1 - Console App
